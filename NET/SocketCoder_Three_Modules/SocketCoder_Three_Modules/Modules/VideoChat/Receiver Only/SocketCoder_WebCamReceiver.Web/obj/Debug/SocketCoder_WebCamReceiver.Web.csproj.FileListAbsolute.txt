@@ -1,0 +1,5 @@
+C:\Users\Fadi Abdelqader\Desktop\SocketCoder_Three_Modules\Modules\2SocketCoder_Video_Chat\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.dll
+C:\Users\Fadi Abdelqader\Desktop\SocketCoder_Three_Modules\Modules\2SocketCoder_Video_Chat\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.pdb
+C:\Users\Fadi Abdelqader\Desktop\SocketCoder_Three_Modules\Modules\2SocketCoder_Video_Chat\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fadi Abdelqader\Desktop\SocketCoder_Three_Modules\Modules\2SocketCoder_Video_Chat\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.dll
+C:\Users\Fadi Abdelqader\Desktop\SocketCoder_Three_Modules\Modules\2SocketCoder_Video_Chat\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.pdb

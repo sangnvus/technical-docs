@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="SocketCoder_VoiceChat.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400" xmlns:dataInput="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Data.Input">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid Background="#FFE8E8E8" Height="436" Margin="10,11,-10,0" VerticalAlignment="Top" Width="400">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="216*" />
+                <RowDefinition Height="220*" />
+            </Grid.RowDefinitions>
+            <Button Click="button1_Click" Content="Start The Microphone" Height="25" Margin="47,114,73,0" Name="button1" VerticalAlignment="Top" IsEnabled="False" />
+            <Button Click="ConnectBTN_Click" Content="Connect" Height="23" HorizontalAlignment="Right" Margin="0,14,73,0" Name="ConnectBTN" VerticalAlignment="Top" Width="73" />
+            <TextBox Height="23" HorizontalAlignment="Left" Margin="115,14,0,0" Name="IPAddress_TXT" Text="" VerticalAlignment="Top" Width="133" />
+            <dataInput:Label Content="Server IP" HorizontalAlignment="Left" Margin="47,14,0,177" Name="label1" Width="62" />
+            <Button Click="StartSendingBTN_Click" Content="Start Talking" Height="38" HorizontalAlignment="Left" IsEnabled="False" Margin="47,0,0,2" Name="StartSendingBTN" VerticalAlignment="Bottom" Width="146" />
+            <Button Click="StopSendingBT_Click" Content="Stop Talking" Height="38" HorizontalAlignment="Right" IsEnabled="False" Margin="0,176,73,0" Name="StopSendingBT" VerticalAlignment="Top" Width="128" />
+            <MediaElement Height="199" HorizontalAlignment="Left" Margin="333,76,0,0" Name="mediaElement1" VerticalAlignment="Top" Width="30" Grid.RowSpan="2" />
+            <Button Content="Stop The Microphone" Height="25" HorizontalAlignment="Left" IsEnabled="False" Margin="47,145,0,0" Name="button3" VerticalAlignment="Top" Width="280" Click="button3_Click" />
+            <dataInput:Label Height="23" HorizontalAlignment="Right" Margin="0,43,19,0" Name="BufferSizeLB" VerticalAlignment="Top" Width="73" Content="0" />
+            <dataInput:Label Height="23" HorizontalAlignment="Left" Margin="227,43,0,0" Name="label4" VerticalAlignment="Top" Width="75" Content="Buffer Size" />
+            <Button Content="Join to the Voice Room" Height="36" HorizontalAlignment="Left" Margin="47,72,0,0" Name="ListeningBTN" VerticalAlignment="Top" Width="280" Click="ListeningBTN_Click" IsEnabled="False" />
+            <CheckBox Content="Mute Listening And Just Talking ..." Height="19" HorizontalAlignment="Left" Margin="47,40,0,0" Name="MuteCheckBox" VerticalAlignment="Top" Width="280" IsEnabled="False" Grid.Row="1" />
+            <dataInput:Label Height="28" HorizontalAlignment="Left" Margin="47,4,0,0" Name="VoiceCompLB" VerticalAlignment="Top" Width="334" Content="Voice Compression With G.711" Grid.Row="1" />
+        </Grid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,45 @@
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_V0.1\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_V0.1\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_V0.1\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_V0.1\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_V0.1\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.pdb
+C:\Users\FADI\Desktop\Part3_SocketCoderVoice_G711\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.dll
+C:\Users\FADI\Desktop\Part3_SocketCoderVoice_G711\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.pdb
+C:\Users\FADI\Desktop\Part3_SocketCoderVoice_G711\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FADI\Desktop\Part3_SocketCoderVoice_G711\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.dll
+C:\Users\FADI\Desktop\Part3_SocketCoderVoice_G711\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_G711\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_G711\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_G711\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_G711\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_G711\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.pdb
+C:\Users\FADI\Desktop\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.dll
+C:\Users\FADI\Desktop\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.pdb
+C:\Users\FADI\Desktop\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FADI\Desktop\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.dll
+C:\Users\FADI\Desktop\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.pdb
+C:\Users\Fadi Abdelqader\Desktop\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.dll
+C:\Users\Fadi Abdelqader\Desktop\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.pdb
+C:\Users\Fadi Abdelqader\Desktop\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fadi Abdelqader\Desktop\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.dll
+C:\Users\Fadi Abdelqader\Desktop\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Projects\Part3_VoiceChat\Part3_SocketCoderVoice_Speex_Duplex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Projects\Part3_VoiceChat\Part3_SocketCoderVoice_Speex_Duplex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Projects\Part3_VoiceChat\Part3_SocketCoderVoice_Speex_Duplex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Projects\Part3_VoiceChat\Part3_SocketCoderVoice_Speex_Duplex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Projects\Part3_VoiceChat\Part3_SocketCoderVoice_Speex_Duplex\SocketCoder_VoiceChat\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.pdb
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat\WithSpeex\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.dll
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat\WithSpeex\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.pdb
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat\WithSpeex\SocketCoder_VoiceChat.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat\WithSpeex\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.dll
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat\WithSpeex\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.pdb
