@@ -1,0 +1,40 @@
+c:\users\fadi abdelqader\documents\visual studio 2010\Projects\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.dll
+c:\users\fadi abdelqader\documents\visual studio 2010\Projects\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.pdb
+c:\users\fadi abdelqader\documents\visual studio 2010\Projects\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\obj\Debug\ResolveAssemblyReference.cache
+c:\users\fadi abdelqader\documents\visual studio 2010\Projects\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.dll
+c:\users\fadi abdelqader\documents\visual studio 2010\Projects\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.pdb
+C:\Users\Fadi Abdelqader\Desktop\My Silverlight Test Projects\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.dll
+C:\Users\Fadi Abdelqader\Desktop\My Silverlight Test Projects\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.pdb
+C:\Users\Fadi Abdelqader\Desktop\My Silverlight Test Projects\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fadi Abdelqader\Desktop\My Silverlight Test Projects\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.dll
+C:\Users\Fadi Abdelqader\Desktop\My Silverlight Test Projects\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\SocketCoder_WebCamReceiver\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part2_SocketCoderPresenter\Silverlight Receiver\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part2_SocketCoderPresenter\Silverlight Receiver\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part2_SocketCoderPresenter\Silverlight Receiver\SocketCoder_WebCamReceiver.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part2_SocketCoderPresenter\Silverlight Receiver\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part2_SocketCoderPresenter\Silverlight Receiver\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part2_SocketCoderPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part2_SocketCoderPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part2_SocketCoderPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part2_SocketCoderPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part2_SocketCoderPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.pdb
+C:\Users\FADI\Desktop\SocketCoder_All_Modules\Modules\3SocketCoderPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.dll
+C:\Users\FADI\Desktop\SocketCoder_All_Modules\Modules\3SocketCoderPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.pdb
+C:\Users\FADI\Desktop\SocketCoder_All_Modules\Modules\3SocketCoderPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FADI\Desktop\SocketCoder_All_Modules\Modules\3SocketCoderPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.dll
+C:\Users\FADI\Desktop\SocketCoder_All_Modules\Modules\3SocketCoderPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.pdb
+C:\Users\Fadi Abdelqader\Desktop\SocketCoder_Three_Modules\Modules\3SocketCoderDesktopPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.dll
+C:\Users\Fadi Abdelqader\Desktop\SocketCoder_Three_Modules\Modules\3SocketCoderDesktopPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.pdb
+C:\Users\Fadi Abdelqader\Desktop\SocketCoder_Three_Modules\Modules\3SocketCoderDesktopPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fadi Abdelqader\Desktop\SocketCoder_Three_Modules\Modules\3SocketCoderDesktopPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.dll
+C:\Users\Fadi Abdelqader\Desktop\SocketCoder_Three_Modules\Modules\3SocketCoderDesktopPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.pdb
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\DesktopPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.dll
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\DesktopPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\bin\SocketCoder_WebCamReceiver.Web.pdb
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\DesktopPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\DesktopPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.dll
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\DesktopPresenter\Silverlight ReceiverOrStudent\SocketCoder_WebCamReceiver.Web\obj\Debug\SocketCoder_WebCamReceiver.Web.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketCoder_WebCamSender", "SocketCoder_WebCamSender\SocketCoder_WebCamSender.csproj", "{7AEC4919-4241-4C3A-AAAE-9C0C3B8A66F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketCoder_WebCamSender.Web", "SocketCoder_WebCamSender.Web\SocketCoder_WebCamSender.Web.csproj", "{ABDDC0F9-2108-497A-8039-47FEEB796F07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AEC4919-4241-4C3A-AAAE-9C0C3B8A66F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEC4919-4241-4C3A-AAAE-9C0C3B8A66F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEC4919-4241-4C3A-AAAE-9C0C3B8A66F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEC4919-4241-4C3A-AAAE-9C0C3B8A66F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABDDC0F9-2108-497A-8039-47FEEB796F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDDC0F9-2108-497A-8039-47FEEB796F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDDC0F9-2108-497A-8039-47FEEB796F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDDC0F9-2108-497A-8039-47FEEB796F07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

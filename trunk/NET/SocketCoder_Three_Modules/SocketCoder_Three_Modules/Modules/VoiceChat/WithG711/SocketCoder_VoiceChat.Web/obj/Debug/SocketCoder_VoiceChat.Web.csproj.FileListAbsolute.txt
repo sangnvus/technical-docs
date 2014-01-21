@@ -1,0 +1,15 @@
+C:\Users\Fadi Abdelqader\Desktop\SocketCoder_Three_Modules\Modules\1SocketCoderVoice_G711_Duplex\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.dll
+C:\Users\Fadi Abdelqader\Desktop\SocketCoder_Three_Modules\Modules\1SocketCoderVoice_G711_Duplex\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.pdb
+C:\Users\Fadi Abdelqader\Desktop\SocketCoder_Three_Modules\Modules\1SocketCoderVoice_G711_Duplex\SocketCoder_VoiceChat.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fadi Abdelqader\Desktop\SocketCoder_Three_Modules\Modules\1SocketCoderVoice_G711_Duplex\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.dll
+C:\Users\Fadi Abdelqader\Desktop\SocketCoder_Three_Modules\Modules\1SocketCoderVoice_G711_Duplex\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.pdb
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat G711\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.dll
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat G711\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.pdb
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat G711\SocketCoder_VoiceChat.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat G711\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.dll
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat G711\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.pdb
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat\WithG711\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.dll
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat\WithG711\SocketCoder_VoiceChat.Web\bin\SocketCoder_VoiceChat.Web.pdb
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat\WithG711\SocketCoder_VoiceChat.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat\WithG711\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.dll
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat\WithG711\SocketCoder_VoiceChat.Web\obj\Debug\SocketCoder_VoiceChat.Web.pdb

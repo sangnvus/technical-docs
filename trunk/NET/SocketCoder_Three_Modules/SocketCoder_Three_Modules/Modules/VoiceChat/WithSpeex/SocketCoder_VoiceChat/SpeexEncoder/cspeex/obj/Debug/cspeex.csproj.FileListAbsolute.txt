@@ -1,0 +1,36 @@
+C:\Users\Fadi Abdelqader\Desktop\CSPeex\cspeex\bin\Debug\cspeex.dll
+C:\Users\Fadi Abdelqader\Desktop\CSPeex\cspeex\bin\Debug\cspeex.pdb
+C:\Users\Fadi Abdelqader\Desktop\CSPeex\cspeex\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fadi Abdelqader\Desktop\CSPeex\cspeex\obj\Debug\cspeex.dll
+C:\Users\Fadi Abdelqader\Desktop\CSPeex\cspeex\obj\Debug\cspeex.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat\VoiceEncoder\cspeex\bin\Debug\cspeex.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat\VoiceEncoder\cspeex\bin\Debug\cspeex.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat\VoiceEncoder\cspeex\obj\Debug\ResolveAssemblyReference.cache
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat\VoiceEncoder\cspeex\obj\Debug\cspeex.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat\VoiceEncoder\cspeex\obj\Debug\cspeex.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\VoiceEncoder\cspeex\bin\Debug\cspeex.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\VoiceEncoder\cspeex\bin\Debug\cspeex.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\VoiceEncoder\cspeex\obj\Debug\ResolveAssemblyReference.cache
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\VoiceEncoder\cspeex\obj\Debug\cspeex.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\VoiceEncoder\cspeex\obj\Debug\cspeex.pdb
+C:\Users\FADI\Desktop\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\VoiceEncoder\cspeex\bin\Debug\cspeex.dll
+C:\Users\FADI\Desktop\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\VoiceEncoder\cspeex\bin\Debug\cspeex.pdb
+C:\Users\FADI\Desktop\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\VoiceEncoder\cspeex\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FADI\Desktop\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\VoiceEncoder\cspeex\obj\Debug\cspeex.dll
+C:\Users\FADI\Desktop\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\VoiceEncoder\cspeex\obj\Debug\cspeex.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat\SpeexEncoder\cspeex\bin\Debug\cspeex.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat\SpeexEncoder\cspeex\bin\Debug\cspeex.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat\SpeexEncoder\cspeex\obj\Debug\ResolveAssemblyReference.cache
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat\SpeexEncoder\cspeex\obj\Debug\cspeex.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex\SocketCoder_VoiceChat\SocketCoder_VoiceChat\SpeexEncoder\cspeex\obj\Debug\cspeex.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex_Duplex\SocketCoder_VoiceChat\SocketCoder_VoiceChat\SpeexEncoder\cspeex\obj\Debug\ResolveAssemblyReference.cache
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex_Duplex\SocketCoder_VoiceChat\SocketCoder_VoiceChat\SpeexEncoder\cspeex\obj\Debug\cspeex.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Test Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex_Duplex\SocketCoder_VoiceChat\SocketCoder_VoiceChat\SpeexEncoder\cspeex\obj\Debug\cspeex.pdb
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex_Duplex\SocketCoder_VoiceChat\SocketCoder_VoiceChat\SpeexEncoder\cspeex\obj\Debug\ResolveAssemblyReference.cache
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex_Duplex\SocketCoder_VoiceChat\SocketCoder_VoiceChat\SpeexEncoder\cspeex\obj\Debug\cspeex.dll
+D:\Information Library\Today Tasks\@ABEGS\Abegs Projects\My Silverlight Projects\Part3_SocketCoderVoiceChat\Part3_SocketCoderVoice_Speex_Duplex\SocketCoder_VoiceChat\SocketCoder_VoiceChat\SpeexEncoder\cspeex\obj\Debug\cspeex.pdb
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat\WithSpeex\SocketCoder_VoiceChat\SpeexEncoder\cspeex\bin\Debug\cspeex.dll
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat\WithSpeex\SocketCoder_VoiceChat\SpeexEncoder\cspeex\bin\Debug\cspeex.pdb
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat\WithSpeex\SocketCoder_VoiceChat\SpeexEncoder\cspeex\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat\WithSpeex\SocketCoder_VoiceChat\SpeexEncoder\cspeex\obj\Debug\cspeex.dll
+C:\Users\Fadi\Desktop\SocketCoder_Three_Modules\Modules\VoiceChat\WithSpeex\SocketCoder_VoiceChat\SpeexEncoder\cspeex\obj\Debug\cspeex.pdb
